@@ -1,6 +1,6 @@
 Package: me.lokotoai.leddot
 Name: LedDot
-Depends: mobilesubstrate, notchification
+Depends: mobilesubstrate, Notchification
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Add a LED notification dot on iPhone X/XS
