@@ -1,0 +1,12 @@
+Package: me.lokotoai.leddottest
+Name: LedDotTest
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Add a LED notification dot
+Maintainer: LokotoAI
+Author: LokotoAI
+Section: Tweak
+Support: https://lokotoai.github.io/repo
+Tag: purpose::tweak, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+; / ;
