@@ -1,0 +1,12 @@
+Package: fun.livefor.complex
+Name: ComplEX
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Pack of animations for Notchification
+Maintainer: LokotoAI
+Author: LokotoAI
+Section: Tweak
+Support: https://lokotoai.github.io/repo
+Tag: purpose::tweak, compatible::ios12
+;
